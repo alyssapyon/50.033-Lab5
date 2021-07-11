@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aaeba15c8517cab4a86b78c9dd586b85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioClipJump: {fileID: 8300000, guid: 7c29c0ec8b929454f999dbe9a45a7cab, type: 3}
+  - audioClipSkid: {fileID: 8300000, guid: 490f1cae6c7ad487db9edf3915018d85, type: 3}
+  - mixerGroup: {fileID: -7984747968659698762, guid: 061cccde18d2edd4288d43bc71a93776,
+      type: 2}
+  - dustCloud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
